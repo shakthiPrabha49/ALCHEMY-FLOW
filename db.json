@@ -1,0 +1,138 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "role": "Admin"
+    },
+    {
+      "name": "SHAKTHI",
+      "role": "KAM",
+      "id": "1778135403117"
+    },
+    {
+      "name": "IWANKA",
+      "role": "KAM",
+      "id": "1778135411896"
+    },
+    {
+      "name": "MILINDA",
+      "role": "KAM",
+      "id": "1778135417795"
+    },
+    {
+      "name": "LAKSHAN",
+      "role": "Designer",
+      "id": "1778135495912"
+    },
+    {
+      "name": "KAVEESHA",
+      "role": "Designer",
+      "id": "1778135512451"
+    }
+  ],
+  "brands": [
+    {
+      "name": "CLENA",
+      "kamId": "1778135403117",
+      "id": "1778135428349"
+    },
+    {
+      "name": "GLIZ",
+      "kamId": "1778135403117",
+      "id": "1778135444124"
+    }
+  ],
+  "content": [
+    {
+      "brandId": "1778135428349",
+      "month": "2026-05",
+      "contentNumber": "1",
+      "ideas": "",
+      "ideaStatus": "Done",
+      "caption": "",
+      "designerId": "1778135495912",
+      "designStatus": "Completed",
+      "approvalStatus": "Approved",
+      "publishStatus": "Scheduled",
+      "publishDate": "2026-05-07",
+      "id": "1778135454648",
+      "createdAt": 1778135454648
+    },
+    {
+      "brandId": "1778135428349",
+      "month": "2026-05",
+      "contentNumber": "2",
+      "ideas": "",
+      "ideaStatus": "Not Done",
+      "caption": "",
+      "designerId": "1778135512451",
+      "designStatus": "In Progress",
+      "approvalStatus": "Pending",
+      "publishStatus": "Draft",
+      "publishDate": "2026-05-07",
+      "id": "1778135469514",
+      "createdAt": 1778135469514
+    },
+    {
+      "brandId": "1778135428349",
+      "month": "2026-05",
+      "contentNumber": "3",
+      "ideas": "",
+      "ideaStatus": "Not Done",
+      "caption": "",
+      "designerId": "",
+      "designStatus": "To Do",
+      "approvalStatus": "Pending",
+      "publishStatus": "Draft",
+      "publishDate": "2026-05-07",
+      "id": "1778135470044",
+      "createdAt": 1778135470044
+    },
+    {
+      "brandId": "1778135428349",
+      "month": "2026-05",
+      "contentNumber": "4",
+      "ideas": "",
+      "ideaStatus": "Not Done",
+      "caption": "",
+      "designerId": "",
+      "designStatus": "To Do",
+      "approvalStatus": "Pending",
+      "publishStatus": "Draft",
+      "publishDate": "2026-05-07",
+      "id": "1778135471859",
+      "createdAt": 1778135471859
+    },
+    {
+      "brandId": "1778135428349",
+      "month": "2026-05",
+      "contentNumber": "1",
+      "ideas": "",
+      "ideaStatus": "Not Done",
+      "caption": "",
+      "designerId": "",
+      "designStatus": "To Do",
+      "approvalStatus": "Pending",
+      "publishStatus": "Draft",
+      "publishDate": "2026-05-07",
+      "id": "1778135472298",
+      "createdAt": 1778135472298
+    },
+    {
+      "brandId": "1778135428349",
+      "month": "2026-05",
+      "contentNumber": "2",
+      "ideas": "",
+      "ideaStatus": "Not Done",
+      "caption": "",
+      "designerId": "",
+      "designStatus": "To Do",
+      "approvalStatus": "Pending",
+      "publishStatus": "Draft",
+      "publishDate": "2026-05-07",
+      "id": "1778135696046",
+      "createdAt": 1778135696046
+    }
+  ]
+}
